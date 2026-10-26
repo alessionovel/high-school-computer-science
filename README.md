@@ -25,10 +25,6 @@ The code, comments and UI text are in **Italian**, as they were written at the t
 
 C++ · Java · Android · PHP · MySQL · HTML/CSS/JavaScript · Vue.js · OpenSSL · Cisco Packet Tracer · UML (Astah) · draw.io
 
-## Related repositories
-
-- [smartMarkets](https://github.com/alessionovel/smartMarkets): final exam project (it used to live here as well).
-
 ## Notes
 
 - Credentials that had been committed in the original upload have been replaced with placeholders (`DB_HOST`, `DB_USER`, `DB_PASSWORD`, `YOUR_APP_PASSWORD`). To run the PHP projects, set your own values in the `db_connection.php` / `connectDb.php` files.
