@@ -24,9 +24,3 @@ The code, comments and UI text are in **Italian**, as they were written at the t
 ## Tech
 
 C++ · Java · Android · PHP · MySQL · HTML/CSS/JavaScript · Vue.js · OpenSSL · Cisco Packet Tracer · UML (Astah) · draw.io
-
-## Notes
-
-- Credentials that had been committed in the original upload have been replaced with placeholders (`DB_HOST`, `DB_USER`, `DB_PASSWORD`, `YOUR_APP_PASSWORD`). To run the PHP projects, set your own values in the `db_connection.php` / `connectDb.php` files.
-- Java projects come from Eclipse: import the folder as a Java project and use `src/` as the source folder. Projects that use a database need the MySQL JDBC driver and the `.sql` dump in the project folder.
-- Android projects can be opened in Android Studio.
