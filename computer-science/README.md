@@ -37,3 +37,8 @@
 | 16 | `16-dairy-farm` | Dairy farm management: milk intake, cheese wheels, sales, stats and JSON API |
 
 Database credentials are placeholders: set your own in `db_connection.php` / `connectDb.php`.
+
+## Running the projects
+
+- **Java + MySQL** (`22-dog-agility-db`, `23-pub-db`, `24-jdbc-dao`): add MySQL Connector/J to the classpath. The projects were written against version 5.1.39 (`mysql:mysql-connector-java:5.1.39` on Maven Central) and use the `com.mysql.jdbc.Driver` class.
+- **Android**: open each folder in Android Studio. The projects target Gradle 6.5 and Android Gradle Plugin 4.x and use the retired `jcenter()` repository, so a current Android Studio will ask to upgrade them (replace `jcenter()` with `mavenCentral()`).
